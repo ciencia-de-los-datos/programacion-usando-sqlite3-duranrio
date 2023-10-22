@@ -18,3 +18,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
+SELECT count(K1) as "COUNT(*)" FROM tbl1;
